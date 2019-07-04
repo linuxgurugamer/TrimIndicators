@@ -1,7 +1,7 @@
 License
 -------
 
-Author/Copyright: André Kolster
+Author/Copyright: Jonathan Bayer
 
 
 This stuff is released under the Attribution-ShareAlike 3.0 Unported license:
@@ -18,19 +18,4 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 No warranties are given. 
 
-This license only applies to NanoGauges and won't cover the included toolbar (folder 000_toolbar). The toolbar is created by blizzy78 and licensed under the BSD 2-clause license
-
-Credits:
---------
-This work is inspired and based on the KSP plugin "Bucky's Instruments v0.0.4": 
-  http://forum.kerbalspaceprogram.com/threads/37128-0-20-Bucky-s-Instruments-v0-0-4-RAD-ALT-and-VSI-update 
-
-by Chris Moolenschot
-
-Some of his graphics were used and changed to create this plugin.
-
-The trim indicators are based on an idea by dazoe.
-
-The code for the impact time gauge is taken from the Engineer Redux plugin from cybutek 
-
-
+This is based on code from the NanoGauges mod, and therefore has the same license
