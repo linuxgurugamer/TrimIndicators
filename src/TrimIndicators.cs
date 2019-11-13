@@ -58,7 +58,7 @@ namespace TrimIndicators
                 gauge.minValuePosition -= new Vector2(0, origHeight);
                 gauge.maxValuePosition -= new Vector2(0, origHeight);
             }
-            //return gauge; 
+ 
             return gauge;
         }
 

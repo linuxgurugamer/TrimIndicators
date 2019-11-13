@@ -40,8 +40,8 @@ namespace TrimIndicators
     [KSPAddon(KSPAddon.Startup.MainMenu, true)]
     internal class InstallChecker : MonoBehaviour
     {
-        private const string MODNAME = "Kerbal Construction Time";
-        private const string FOLDERNAME = "KerbalConstructionTime";
+        private const string MODNAME = "Trim Indicators";
+        private const string FOLDERNAME = "TrimIndicators";
         private const string EXPECTEDPATH = FOLDERNAME + "/Plugins";
 
         protected void Start()

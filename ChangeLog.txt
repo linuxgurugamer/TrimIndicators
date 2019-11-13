@@ -1,5 +1,8 @@
 ChangeLog
 
+0.1.0.1
+	Fixed InstallChecker with correct name and dir
+
 0.1.0
 	Added InstallChecker
 	Updated for KSP 1.8
