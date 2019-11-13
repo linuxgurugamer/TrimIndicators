@@ -68,22 +68,6 @@ namespace TrimIndicators
 
             }
 
-            if (!AssemblyLoader.loadedAssemblies.Any(a => string.Equals(a.assembly.GetName().Name, "magicore", StringComparison.OrdinalIgnoreCase)))
-            {
-                PopupDialog.SpawnPopupDialog
-                               (
-                                   new Vector2(0.5f, 0.5f),
-                                   new Vector2(0.5f, 0.5f),
-                                   "test2",
-                                   "Missing MagiCore Installation",
-                                   "Magicore is required by Kerbal Construction Time.\nKerbal Construction Time will not function until it is installed",
-                                   "OK",
-                                   false,
-                                   HighLogic.UISkin
-                               );
-                Debug.Log("Missing MagiCore Installation");
-            }
-
 
             //// Check for Module Manager
             //if (!AssemblyLoader.loadedAssemblies.Any(a => a.assembly.GetName().Name.StartsWith("ModuleManager") && a.url == ""))
