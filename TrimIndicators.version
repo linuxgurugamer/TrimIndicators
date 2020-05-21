@@ -1,6 +1,6 @@
 {
   "NAME": "TrimIndicators",
-  "URL": "http://ksp/spacetux.net/avc/TrimIndicators",
+  "URL": "http://ksp.spacetux.net/avc/TrimIndicators",
   "DOWNLOAD": "https://github.com/linuxgurugamer/TrimIndicators/releases",
   "GITHUB": {
     "USERNAME": "linuxgurugamer",
@@ -10,7 +10,7 @@
     "MAJOR": 0,
     "MINOR": 1,
     "PATCH": 0,
-    "BUILD": 1
+    "BUILD": 2
   },
   "KSP_VERSION_MIN": {
     "MAJOR": 1,
